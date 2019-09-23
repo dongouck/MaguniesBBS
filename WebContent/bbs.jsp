@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
+﻿<%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <%@ page import="java.io.PrintWriter" %>
 <%@ page import="bbs.BbsDAO" %>
@@ -150,8 +150,8 @@
 		
 		<a href="write.jsp" class="btn btn-primary pull-right">Write</a>
 		<div style="margin-top:15px;"align="center">
-			<a href="https://www.huffingtonpost.kr/entry/story_kr_5d19ac91e4b03d61163de18a">
-				<img src="img/bbs05.gif" width="480" >
+			<a href="" onclick="alert('5252 들어온김에 글이나 쓰라구')">
+				<img src="img/bbs09.gif" width="480" >
 			</a>
 		</div>
 	</div>	

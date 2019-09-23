@@ -89,10 +89,10 @@
 		<div class="jumbotron" style="height:600px;">
 			<h1>Magunie's BBS</h1>
 			<p>(Bootstrap ver. 3.3.7)</p>
-			<p>2019-7-3 Update Note</br>
-						<p style="font-size:small;">＊상단 일부 UI 수정 및 일부 버그 수정
+			<p>2019-9-16 Update Note</br>
+						<p style="font-size:small;">＊호스팅 연장 및 디자인 소스 변경
 						</p></p>
-			<img class="absolute" width="210" src="img/main6.png" >
+			<img class="absolute" width="210" src="img/main7.png" >
 			<div style="margin-top:20px">
 				<a class="btn btn-primary btn-pull" href="bbs.jsp" role="button">Enter</a>
 				<a class="btn btn-default" href="aboutHost.jsp" role="button">About Host</a>
